@@ -1,6 +1,6 @@
 # DevFinder
 
-![DevFinder Logo](https://via.placeholder.com/150x50?text=DevFinder)
+![DevFinder Preview](./src/assets/devfinder-preview.png)
 
 A modern GitHub user search application built with React, TypeScript, and Tailwind CSS.
 
