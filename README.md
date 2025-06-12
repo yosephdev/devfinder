@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Yoseph Berhane**
 - Website: [yoseph.dev](https://yoseph.dev)
-- GitHub: [@yourusername](https://github.com/yosephdev)
+- GitHub: [@yosephdev](https://github.com/yosephdev)
 
 ## 🙏 Acknowledgments
 
