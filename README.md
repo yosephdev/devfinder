@@ -19,7 +19,7 @@ DevFinder allows you to search for GitHub developers and view their detailed pro
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://yoseph.dev/devfinder)
+[View Live Demo](https://dev-finder-five-iota.vercel.app/)
 
 ## 🛠️ Technologies
 
